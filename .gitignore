@@ -31,7 +31,7 @@
 *.app
 
 # unreal
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+tutorials/Binaries
+tutorials/DerivedDataCache
+tutorials/Intermediate
+tutorials/Saved
