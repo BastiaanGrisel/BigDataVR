@@ -1,0 +1,15 @@
+Project Dependencies
+BerkeleyDB XML 6.0 (with XQilla and Xerces)
+BerkeleyDB 6.0
+Boost program_options
+Boost filesystem
+Boost system
+
+Build flags
+-lxqilla
+-lxerces-c
+-ldbxml-6.0
+-ldb-6.1
+-lboost_program_options
+-lboost_filesystem
+-lboost_system
